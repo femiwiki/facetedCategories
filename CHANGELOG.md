@@ -2,6 +2,10 @@
 
 Versions and bullets are arranged chronologically from latest to oldest.
 
+## Unreleased
+
+- Fixed bug that page is not shown if the name of the category contains space.
+
 ## v1.0.1
 
 Note: this version requires MediaWiki 1.36+. Earlier versions are no longer supported.
