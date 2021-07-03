@@ -2,7 +2,7 @@
 
 Versions and bullets are arranged chronologically from latest to oldest.
 
-## Unreleased
+## v1.0.2
 
 - Fixed bug that page is not shown if the name of the category contains space.
 
